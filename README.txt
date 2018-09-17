@@ -13,7 +13,7 @@ Move: i
 ---------------------------------------------------------------
 
 The letters (or candies) around the empty slot are the possible moves (no diagonal moves allowed).
-The goal of the game is to make the sequence of candies in the top row, equal to the sequence of candies on the bottom row. 
+The goal of the game is to make the sequence of candies on the top row, equal to the sequence of candies on the bottom row. 
 
 The heurisitc search will look at all the possible next moves, and go with the one that will bring the state
 closer to a winning state. More detailed information about our heurisitc search can be viewed in the power point presentation commited to this repo.
