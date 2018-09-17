@@ -1,0 +1,10 @@
+﻿  Deliverable 2.cpp
+c:\users\mike-laptop\dropbox\concordia\winter 2018\comp 472\project\deliverable 3\deliverable 2\deliverable 2.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike-laptop\dropbox\concordia\winter 2018\comp 472\project\deliverable 3\deliverable 2\deliverable 2.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike-laptop\dropbox\concordia\winter 2018\comp 472\project\deliverable 3\deliverable 2\deliverable 2.cpp(122): warning C4018: '>': signed/unsigned mismatch
+c:\users\mike-laptop\dropbox\concordia\winter 2018\comp 472\project\deliverable 3\deliverable 2\deliverable 2.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike-laptop\dropbox\concordia\winter 2018\comp 472\project\deliverable 3\deliverable 2\deliverable 2.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike-laptop\dropbox\concordia\winter 2018\comp 472\project\deliverable 3\deliverable 2\deliverable 2.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike-laptop\dropbox\concordia\winter 2018\comp 472\project\deliverable 3\deliverable 2\deliverable 2.cpp(60): warning C4102: 'menu': unreferenced label
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  Deliverable 2.vcxproj -> C:\Users\Mike-Laptop\Dropbox\Concordia\Winter 2018\Comp 472\Project\Deliverable 3\Debug\Deliverable 2.exe
